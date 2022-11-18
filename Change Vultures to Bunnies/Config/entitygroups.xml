@@ -1,0 +1,3 @@
+<configs>
+	<set xpath="/entitygroups/entitygroup[contains(@name, '')]/entity[contains(@name, 'Vulture')]/@name">animalRabbit</set>
+</configs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Change Vultures to Bunnies" />
+		<Description value="Changes all instances of aggressive Vultures to passive Rabbits.  Rabbits spawned in POIs will need to be killed in order to complete 'Clear' and 'Fetch and Clear' quests." />
+		<Author value="LochliaOfStormwind" />
+		<Version value="1.0.0" />
+	</ModInfo>
+</xml>
